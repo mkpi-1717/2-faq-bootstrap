@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #E9ECEF;
+ }
+ h1 {
+     color: gray;
+ }
+
+ .btn.focus, .btn:focus {
+    box-shadow: 0 0 0 0;
+}
+
+hr {
+    width: 25%;
+}
+
+.btn {
+    color: orange;
+
+  };
